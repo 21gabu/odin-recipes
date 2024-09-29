@@ -1,0 +1,31 @@
+*{
+    text-align: center;
+    background-color: rgb(216, 255, 143);
+}
+
+h1{
+    font-size: 50px;
+    padding: 10px;
+    border: 5px transparent
+    margin: 10px;
+}
+
+ul{
+    font-size: 26px;
+    margin:  0  ;
+    padding: 10px 40px;
+    border: 5px solid black
+}
+
+#cookies{
+    padding:10px 0px;
+
+}
+
+#bao{
+    padding-bottom: 10px;
+}
+
+#cubanos{
+    padding-bottom: 10px;
+}
